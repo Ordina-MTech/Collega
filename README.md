@@ -1,5 +1,5 @@
 # MTech Collega's
-Verzamelplek voor de GitHub en Blog url's van MTech Collega's
+Verzamelplek voor de GitHub en Blog url's van MTech Collega's.
 
 ## Bijdrage
 Maak een PR aan waarin je jezelf toevoegd aan het `README.md` bestand. Gebruik hierbij het volgende formaat:
